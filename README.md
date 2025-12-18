@@ -1,2 +1,2 @@
 # getgames-privacy
-Privacy Policy for GETLower
+Privacy Policy for GETgames
