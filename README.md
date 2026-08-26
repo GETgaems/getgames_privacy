@@ -14,9 +14,3 @@ GETgaems가 배포하는 앱의 개인정보처리방침·이용약관을 GitHub
 
 - 원본(마크다운)과 생성 절차는 게임 저장소의 `legal/` 폴더에서 관리합니다. **이 저장소의 HTML은 배포본**이므로 내용 수정은 원본에서 하고 다시 내보내 주십시오.
 - 문의: `williamstark.ch@gmail.com`
-
-## 구버전 앱 문서 (legacy)
-
-| 문서 | 대상 앱 |
-| --- | --- |
-| [privacy_policy.html](privacy_policy.html) | GETLower (구버전 앱 — 기존 스토어 링크 유지를 위해 보존) |
